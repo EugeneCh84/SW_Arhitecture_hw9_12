@@ -1,7 +1,7 @@
 
-using MyForstWebApplication.Models;
+using MyFirstWebApplication.Models;
 
-namespace MyForstWebApplication
+namespace MyFirstWebApplication
 {
     public class Program
     {

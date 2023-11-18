@@ -31,3 +31,4 @@
 /home/eugene/GB_arh_lessons/hw_9/MyFirstWebApllication/obj/Debug/net8.0/MyFirstWebApllication.pdb
 /home/eugene/GB_arh_lessons/hw_9/MyFirstWebApllication/obj/Debug/net8.0/MyFirstWebApllication.genruntimeconfig.cache
 /home/eugene/GB_arh_lessons/hw_9/MyFirstWebApllication/obj/Debug/net8.0/ref/MyFirstWebApllication.dll
+/home/eugene/GB_arh_lessons/hw_9/MyFirstWebApllication/obj/Debug/net8.0/MyFirstWebApllication.sourcelink.json
