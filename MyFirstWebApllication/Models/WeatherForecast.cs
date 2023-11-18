@@ -1,4 +1,4 @@
-﻿namespace MyForstWebApplication.Models
+﻿namespace MyFirstWebApplication.Models
 {
     /// <summary>
     /// Прогноз погоды Forecast

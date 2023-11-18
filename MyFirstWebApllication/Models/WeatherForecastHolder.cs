@@ -1,6 +1,6 @@
 ﻿using static System.Runtime.InteropServices.JavaScript.JSType;
 
-namespace MyForstWebApplication.Models
+namespace MyFirstWebApplication.Models
 {
     /// <summary>
     /// Объект на базе класса WeatherForecastHolder, будет хранить список показателей

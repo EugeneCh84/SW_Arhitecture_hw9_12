@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using MyForstWebApplication.Models;
+using MyFirstWebApplication.Models;
 
 namespace MyForstWebApplication.Controllers
 {
