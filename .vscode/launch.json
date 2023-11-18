@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "C#: MyFirstWebApllication [Default Configuration]",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/MyFirstWebApllication/MyFirstWebApllication.csproj"
+        }
+    ]
+}
