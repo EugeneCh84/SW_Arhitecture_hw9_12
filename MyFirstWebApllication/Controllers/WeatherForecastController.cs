@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using MyFirstWebApplication.Models;
 
-namespace MyForstWebApplication.Controllers
+namespace MyFirstWebApplication.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
